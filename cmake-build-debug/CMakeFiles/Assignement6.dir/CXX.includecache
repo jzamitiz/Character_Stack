@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/CharStack.h
+
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+CharStack.h
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/CharStack.h
+

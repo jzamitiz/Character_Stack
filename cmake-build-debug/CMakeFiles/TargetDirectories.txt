@@ -1,0 +1,3 @@
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/josuezamitiz/OneDrive - Texas State University/Assignement6/cmake-build-debug/CMakeFiles/Assignement6.dir
